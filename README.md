@@ -1,5 +1,4 @@
 [index-9.html](https://github.com/user-attachments/files/26965954/index-9.html)
-# Juneees<!DOCTYPE html>
 <html lang="th">
 <head>
 <meta charset="UTF-8">
